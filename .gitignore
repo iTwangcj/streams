@@ -16,3 +16,4 @@ coverage/
 *.tar
 *.gz
 
+package-lock.json
