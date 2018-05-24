@@ -11,7 +11,7 @@
 [include]
 
 [libs]
-node_modules/@verdaccio/types/lib/
+node_modules/@fem/types/lib/
 
 [lints]
 
